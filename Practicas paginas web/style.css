@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: numer;
+    margin-left: 20px;
+}
+.sublista li{
+    list-style-type:lower-latin;
+}
+.sublista ul {
+list-style-type: letters;
+}
+
+.sublista2 li{
+    counter-reset: roman-counter;
+    list-style: none;
+}
+
+.sublista2 ul ::before {
+    content: counter(roman-counter,lower-roman) ". ";
+    counter-increment: roman-counter;
+}
