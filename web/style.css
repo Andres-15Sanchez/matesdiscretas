@@ -23,9 +23,7 @@ img {
 
 .header {
 	background-color: #d0ff0093;
-
 }
-
 
 .menu{
 	display: flex;
@@ -328,7 +326,6 @@ h2 {
 	.footer-content ul {
 		flex-direction: column;
 	}
-
 
 
 } 
