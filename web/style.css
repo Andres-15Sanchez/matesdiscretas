@@ -22,7 +22,7 @@ img {
 }
 
 .header {
-	background-color: #FFFAF7;
+	background-color: #d0ff0093;
 
 }
 
@@ -99,7 +99,7 @@ p {
 .btn-1 {
 	 display: inline-block;
 	 padding: 10px 25px;
-	 color: #FFFFFF;
+	 color: blue;
 	 background-color: #31BFDB;
 	 text-transform: uppercase;
 	 border-radius: 25px;
