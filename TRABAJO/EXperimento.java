@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
  *
  * @author Andres
  */
-public class QuienesmayorABC {
+public class Experimento{
     public static void main(String[] args) {
         byte A = Byte.parseByte(JOptionPane.showInputDialog(null,"Ingrese un numero"));
         byte B = Byte.parseByte(JOptionPane.showInputDialog(null,"Ingresa un numero"));
