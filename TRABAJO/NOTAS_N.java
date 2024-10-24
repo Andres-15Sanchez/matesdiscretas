@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 public class NOTAS_N {
     public static void main(String[] args) {
         char NUEVA_NOTA;
-        int NOTA = 0;
+        int NOTA = 0 ;
         NOTA = (int) Integer.parseInt(JOptionPane.showInputDialog("Ingresa la nota optenida dentro del rango 1 a 20"));
 
         if(NOTA >= 19 && NOTA <=20){
