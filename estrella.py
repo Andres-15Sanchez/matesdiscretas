@@ -12,3 +12,5 @@ for _ in range(5):
     tortuga.right(144)
 
 ventana.exitonclik()
+ncdnnnc
+dnflndoiahdie wd apadnmc

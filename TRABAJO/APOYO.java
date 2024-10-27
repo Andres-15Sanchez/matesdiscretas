@@ -16,6 +16,7 @@ public class APOYO {
         EL TESJI RECIBIO UN APOYO DEL GOBIERNO DE 189 MIL PESOS
              PARA LAS ACTIVIDADES CULTURALES Y DEPORTIVAS
                                            """);
+                                           
         int APOYO_T =189000;
         int PARTE_B=9000;
         int PARTE_V=15000;
