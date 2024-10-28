@@ -27,6 +27,17 @@ public class APOYO {
         int PARTE_M=9000;
         int PARTE_ATL=15000;
         double porcen=0.0;
+
+        JOptionPane.showMessageDialog("""
+            Basquetball   $9000.00
+            Voleibol   $15000.00
+            Artes   $50000.00 
+            Futbol  $25000.00
+            Taekoandow  $50000.00 
+            Ajedres   $25000.00 
+            Musica  $12000.00 
+            Atletismo   $13000.00
+        """)
         
             porcen =(Double)((PARTE_B*100.0)/APOYO_T);
              System.out.println("Basquetball   $9000.00 %1f");
