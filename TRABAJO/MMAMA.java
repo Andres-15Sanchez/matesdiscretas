@@ -28,7 +28,7 @@ public class MMAMA{
         };
 
         // Imprimir el identificador del taller, monto asignado y porcentaje
-        System.out.printf("%-10s %-10s %-10s%n", "Taller", "Monto", "Porcentaje");
+        System.out.printf( "Taller", "Monto", "Porcentaje");
         System.out.println("------------------------------------");
 
         for (int i = 0; i < talleres.length; i++) {
