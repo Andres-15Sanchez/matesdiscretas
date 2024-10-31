@@ -31,6 +31,11 @@ public class APOYO {
             porcent5 = (double) ((PARTE_T * 100.0) / APOYO_T);
             porcent6 = (double) ((PARTE_AJ * 100.0) / APOYO_T);
             porcent7 = (double) ((PARTE_M * 100.0) / APOYO_T);
+
+
+
+
+
             porcent8 = (double) ((PARTE_ATL * 100.0) / APOYO_T);
 
             JOptionPane.showMessageDialog(null, "Basquetball   $9000.00 " + porcent1 + "%"
@@ -42,5 +47,6 @@ public class APOYO {
                     + "\n" + "Ajedres   $25000.00  " + porcent6 + "%"
                     + "\n" + "Musica  $12000.00  " + porcent7 + "%"
                     + "\n" + "Atletismo   $13000.00  " + porcent8 + "%");
+                    
         }
 }
