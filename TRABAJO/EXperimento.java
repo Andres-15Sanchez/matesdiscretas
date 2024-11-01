@@ -26,8 +26,4 @@ public class Experimento{
             System.out.print(C + " Es mayor");
         }
     }
-
-
-
-    jbckdjbckjbcsdkjbsld
 }
