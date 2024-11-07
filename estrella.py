@@ -204,8 +204,7 @@ def main():
     pass
 
     main ()
-     map
-     messagebox
+     
 
 
     
