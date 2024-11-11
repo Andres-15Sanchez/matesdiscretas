@@ -171,7 +171,7 @@ def message_box(subject, content):
         pass
  
  
-bbbbdef main():
+def main():
     global width, rows, s, snack
     width = 500
     rows = 20
